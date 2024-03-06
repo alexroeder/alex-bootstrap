@@ -1,3 +1,7 @@
+# Alex 3/5/2024
+
+This is a Bootstrap 5 class project for Intro to Coding for Journalists. It is due Friday March 8, 2024.
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
